@@ -34,7 +34,7 @@
 ## 📚 My Blogs
 
 1. [Type vs Interface](/type-vs-interface.md)
-2. [any vs unknown vs never](/any-unknown-never.md)
+2. [any vs unknown vs never](/any-vs-unknown-vs-never.md)
 
 
 এই blog-এ `any`, `unknown` এবং `never` type-এর ব্যবহার ও পার্থক্য ব্যাখ্যা করা হয়েছে। বিশেষভাবে `any`-এর তুলনায় `unknown` কেন বেশি type-safe, তা উদাহরণসহ তুলে ধরা হয়েছে।
